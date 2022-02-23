@@ -1,0 +1,10 @@
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\MapViewer\bin\Debug\MapViewer.dll
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\MapViewer\bin\Debug\MapViewer.pdb
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\MapViewer\bin\Debug\MapViewer.xml
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\MapViewer\bin\Debug\BoxCL.dll
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\MapViewer\bin\Debug\BoxCL.pdb
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\MapViewer\bin\Debug\BoxCL.xml
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\MapViewer\obj\Debug\TheBox.MapViewer.MapViewer.resources
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\MapViewer\obj\Debug\MapViewer.csproj.GenerateResource.Cache
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\MapViewer\obj\Debug\MapViewer.dll
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\MapViewer\obj\Debug\MapViewer.pdb

@@ -1,0 +1,385 @@
+<VisualStudioProject>
+    <CSHARP
+        ProjectType = "Local"
+        ProductVersion = "7.10.3077"
+        SchemaVersion = "2.0"
+        ProjectGuid = "{3E20BA2C-177C-4141-8BE4-3010D9DF7959}"
+    >
+        <Build>
+            <Settings
+                ApplicationIcon = ""
+                AssemblyKeyContainerName = ""
+                AssemblyName = "Data"
+                AssemblyOriginatorKeyFile = ""
+                DefaultClientScript = "JScript"
+                DefaultHTMLPageLayout = "Grid"
+                DefaultTargetSchema = "IE50"
+                DelaySign = "false"
+                OutputType = "Library"
+                PreBuildEvent = ""
+                PostBuildEvent = ""
+                RootNamespace = "Data"
+                RunPostBuildEvent = "OnBuildSuccess"
+                StartupObject = ""
+            >
+                <Config
+                    Name = "Debug"
+                    AllowUnsafeBlocks = "false"
+                    BaseAddress = "285212672"
+                    CheckForOverflowUnderflow = "false"
+                    ConfigurationOverrideFile = ""
+                    DefineConstants = "DEBUG;TRACE"
+                    DocumentationFile = ""
+                    DebugSymbols = "true"
+                    FileAlignment = "4096"
+                    IncrementalBuild = "false"
+                    NoStdLib = "false"
+                    NoWarn = ""
+                    Optimize = "false"
+                    OutputPath = "bin\Debug\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                    WarningLevel = "4"
+                />
+                <Config
+                    Name = "Release"
+                    AllowUnsafeBlocks = "false"
+                    BaseAddress = "285212672"
+                    CheckForOverflowUnderflow = "false"
+                    ConfigurationOverrideFile = ""
+                    DefineConstants = "TRACE"
+                    DocumentationFile = ""
+                    DebugSymbols = "false"
+                    FileAlignment = "4096"
+                    IncrementalBuild = "false"
+                    NoStdLib = "false"
+                    NoWarn = ""
+                    Optimize = "true"
+                    OutputPath = "..\..\Pandora\bin\Debug\Data\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                    WarningLevel = "4"
+                />
+            </Settings>
+            <References>
+                <Reference
+                    Name = "System"
+                    AssemblyName = "System"
+                    HintPath = "C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.dll"
+                />
+                <Reference
+                    Name = "System.Data"
+                    AssemblyName = "System.Data"
+                    HintPath = "C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.Data.dll"
+                />
+                <Reference
+                    Name = "System.XML"
+                    AssemblyName = "System.Xml"
+                    HintPath = "C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.XML.dll"
+                />
+                <Reference
+                    Name = "System.Drawing"
+                    AssemblyName = "System.Drawing"
+                    HintPath = "C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.Drawing.dll"
+                />
+                <Reference
+                    Name = "System.Windows.Forms"
+                    AssemblyName = "System.Windows.Forms"
+                    HintPath = "C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.Windows.Forms.dll"
+                />
+            </References>
+        </Build>
+        <Files>
+            <Include>
+                <File
+                    RelPath = "AssemblyInfo.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "BoxData.xml"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Deco.xml"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Doors.xml"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "HueGroups.xml"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights.xml"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "map0.xml"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "map1.xml"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "map2.xml"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "map3.xml"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "map4.xml"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "PropsData.xml"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "RandomTiles.xml"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "rooftiles.cfg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Skills.ini"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "SoundData.xml"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\BigSources\EastBig.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\BigSources\NorthBig.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\BigSources\NorthBig2.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\BigSources\NorthEastBig.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\BigSources\NorthWestBig.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\BigSources\NorthWestBig2.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\BigSources\SouthBig.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\BigSources\SouthWestBig.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\BigSources\WestBig.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\BigSources\WestBig2.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\Circular\Circle150.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\Circular\Circle225.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\Circular\Circle300.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\Dark\DarkCircle300.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\Dark\DarkEast.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\Dark\DarkNorthWest.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\Dark\DarkSouth.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\Dark\DarkSouth2.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\Dark\DarkSouthEast.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\Decoration\DecorationNorth.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\Decoration\DecorationNorthEast.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\Decoration\DecorationSouthWest.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\Decoration\DecorationWest.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\Doors\DoorEast.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\Doors\DoorOpenEast.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\Doors\DoorOpenSouth.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\Doors\DoorSouth.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\Hole\HoleEast.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\Hole\HoleSouth.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\Hole\SmallHoleEast.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\Hole\SmallHoleSouth.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\Miscellaneous\Moongate.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\Miscellaneous\Strips.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\RoundWindows\ArchedWindowEast.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\RoundWindows\ArchedWindowEastNoRay.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\RoundWindows\ArchedWindowSouth.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\RoundWindows\ArchedWindowSouthNoRay.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\RoundWindows\SkinnyWindowEast.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\RoundWindows\SkinnyWindowEastNoRay.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\RoundWindows\SkinnyWindowSouthNoRay.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\SmallSources\EastSmall.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\SmallSources\EastTiny.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\SmallSources\NorthEastSmall.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\SmallSources\NorthSmall.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\SmallSources\SouthSmall.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\SmallSources\SouthTiny.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\SmallSources\WestSmall.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\SquareWindows\RectWindowEast.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\SquareWindows\RectWindowEastNoRay.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\SquareWindows\RectWindowSouth.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\SquareWindows\RectWindowSouthNoRay.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\SquareWindows\SquareWindowEast.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\SquareWindows\SquareWindowEastNoRay.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\SquareWindows\SquareWindowSouth.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Lights\SquareWindows\SquareWindowSouthNoRay.jpg"
+                    BuildAction = "EmbeddedResource"
+                />
+            </Include>
+        </Files>
+    </CSHARP>
+</VisualStudioProject>
+

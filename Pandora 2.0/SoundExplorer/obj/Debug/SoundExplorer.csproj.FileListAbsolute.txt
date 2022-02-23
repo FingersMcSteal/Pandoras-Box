@@ -1,0 +1,10 @@
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\SoundExplorer\bin\Debug\SoundExplorer.exe
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\SoundExplorer\bin\Debug\SoundExplorer.pdb
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\SoundExplorer\bin\Debug\BoxCL.dll
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\SoundExplorer\bin\Debug\BoxCL.pdb
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\SoundExplorer\bin\Debug\BoxCL.xml
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\SoundExplorer\obj\Debug\SoundExplorer.csprojResolveAssemblyReference.cache
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\SoundExplorer\obj\Debug\SoundExplorer.Form1.resources
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\SoundExplorer\obj\Debug\SoundExplorer.csproj.GenerateResource.Cache
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\SoundExplorer\obj\Debug\SoundExplorer.exe
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\SoundExplorer\obj\Debug\SoundExplorer.pdb

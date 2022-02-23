@@ -1,0 +1,9 @@
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\ArtViewer\bin\Debug\ArtViewer.dll
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\ArtViewer\bin\Debug\ArtViewer.pdb
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\ArtViewer\bin\Debug\BoxCL.dll
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\ArtViewer\bin\Debug\BoxCL.pdb
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\ArtViewer\bin\Debug\BoxCL.xml
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\ArtViewer\obj\Debug\TheBox.ArtViewer.ArtViewer.resources
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\ArtViewer\obj\Debug\ArtViewer.csproj.GenerateResource.Cache
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\ArtViewer\obj\Debug\ArtViewer.dll
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\ArtViewer\obj\Debug\ArtViewer.pdb

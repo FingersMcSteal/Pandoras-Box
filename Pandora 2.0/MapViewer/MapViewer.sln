@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapViewer", "MapViewer.csproj", "{BCF60001-3CDA-420E-83ED-F1FEAC1E005A}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{BCF60001-3CDA-420E-83ED-F1FEAC1E005A}.Debug.ActiveCfg = Debug|.NET
+		{BCF60001-3CDA-420E-83ED-F1FEAC1E005A}.Debug.Build.0 = Debug|.NET
+		{BCF60001-3CDA-420E-83ED-F1FEAC1E005A}.Release.ActiveCfg = Release|.NET
+		{BCF60001-3CDA-420E-83ED-F1FEAC1E005A}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

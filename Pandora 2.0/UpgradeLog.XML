@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Pandora 2.0">
+</Property><Property Name="Solution File" Value="C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\Pandora 2.0.sln">
+</Property><Property Name="Date" Value="30 March 2019">
+</Property><Property Name="Time" Value="19:05">
+</Property></Properties><Event ErrorLevel="0" Project="BoxCommonLibrary" Source="BoxCommonLibrary\BoxCommonLibrary.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BoxCommonLibrary" Source="BoxCommonLibrary\BoxCommonLibrary.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BoxEdit" Source="BoxEdit\BoxEdit.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BoxEdit" Source="BoxEdit\BoxEdit.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Pandora" Source="Pandora\Pandora.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Pandora" Source="Pandora\Pandora.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Localizer" Source="Localizer\Localizer.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Localizer" Source="Localizer\Localizer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MapViewer" Source="MapViewer\MapViewer.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MapViewer" Source="MapViewer\MapViewer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ArtViewer" Source="ArtViewer\ArtViewer.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ArtViewer" Source="ArtViewer\ArtViewer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BoxRemote" Source="BoxRemote\BoxRemote.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BoxRemote" Source="BoxRemote\BoxRemote.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SoundExplorer" Source="SoundExplorer\SoundExplorer.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SoundExplorer" Source="SoundExplorer\SoundExplorer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BoxServerSetup" Source="BoxServerSetup\BoxServerSetup.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BoxServerSetup" Source="BoxServerSetup\BoxServerSetup.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TravelAgent" Source="TravelAgent\TravelAgent.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TravelAgent" Source="TravelAgent\TravelAgent.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Tester" Source="Tester\Tester.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Tester" Source="Tester\Tester.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Pandora 2.0.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Pandora 2.0.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BoxCommonLibrary" Source="BoxCommonLibrary\BoxCommonLibrary.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="BoxEdit" Source="BoxEdit\BoxEdit.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Pandora" Source="Pandora\Pandora.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Localizer" Source="Localizer\Localizer.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="MapViewer" Source="MapViewer\MapViewer.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ArtViewer" Source="ArtViewer\ArtViewer.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="BoxRemote" Source="BoxRemote\BoxRemote.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SoundExplorer" Source="SoundExplorer\SoundExplorer.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="BoxServerSetup" Source="BoxServerSetup\BoxServerSetup.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="TravelAgent" Source="TravelAgent\TravelAgent.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Tester" Source="Tester\Tester.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

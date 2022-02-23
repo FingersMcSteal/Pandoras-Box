@@ -1,0 +1,6 @@
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\Localizer\bin\Debug\Localizer.exe
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\Localizer\bin\Debug\Localizer.pdb
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\Localizer\obj\Debug\TheBox.Lang.Localizer.resources
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\Localizer\obj\Debug\Localizer.csproj.GenerateResource.Cache
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\Localizer\obj\Debug\Localizer.exe
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\Localizer\obj\Debug\Localizer.pdb

@@ -1,0 +1,3 @@
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\BoxEdit\obj\Debug\TheBox.Editors.Starter.resources
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\BoxEdit\obj\Debug\TheBox.Editors.TravelEditor.resources
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\BoxEdit\obj\Debug\BoxEdit.csproj.GenerateResource.Cache

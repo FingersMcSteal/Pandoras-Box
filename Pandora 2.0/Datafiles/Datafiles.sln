@@ -1,0 +1,53 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "English", "English\English.csproj", "{360959F7-14DD-4C76-BD61-72525B378EF3}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefaultButtons", "DefaultButtons\DefaultButtons.csproj", "{BB9DAC32-3B08-4C03-905B-9AE7CC55A10F}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{3E20BA2C-177C-4141-8BE4-3010D9DF7959}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{ED1550EF-2496-4F79-BFE9-3B3AB983E2A4}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoofEditor", "RoofEditor\RoofEditor.csproj", "{0A497FA9-898A-4570-AC2D-5033E53DF196}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{360959F7-14DD-4C76-BD61-72525B378EF3}.Debug.ActiveCfg = Debug|.NET
+		{360959F7-14DD-4C76-BD61-72525B378EF3}.Debug.Build.0 = Debug|.NET
+		{360959F7-14DD-4C76-BD61-72525B378EF3}.Release.ActiveCfg = Release|.NET
+		{360959F7-14DD-4C76-BD61-72525B378EF3}.Release.Build.0 = Release|.NET
+		{BB9DAC32-3B08-4C03-905B-9AE7CC55A10F}.Debug.ActiveCfg = Debug|.NET
+		{BB9DAC32-3B08-4C03-905B-9AE7CC55A10F}.Debug.Build.0 = Debug|.NET
+		{BB9DAC32-3B08-4C03-905B-9AE7CC55A10F}.Release.ActiveCfg = Release|.NET
+		{BB9DAC32-3B08-4C03-905B-9AE7CC55A10F}.Release.Build.0 = Release|.NET
+		{3E20BA2C-177C-4141-8BE4-3010D9DF7959}.Debug.ActiveCfg = Debug|.NET
+		{3E20BA2C-177C-4141-8BE4-3010D9DF7959}.Debug.Build.0 = Debug|.NET
+		{3E20BA2C-177C-4141-8BE4-3010D9DF7959}.Release.ActiveCfg = Release|.NET
+		{3E20BA2C-177C-4141-8BE4-3010D9DF7959}.Release.Build.0 = Release|.NET
+		{ED1550EF-2496-4F79-BFE9-3B3AB983E2A4}.Debug.ActiveCfg = Debug|.NET
+		{ED1550EF-2496-4F79-BFE9-3B3AB983E2A4}.Debug.Build.0 = Debug|.NET
+		{ED1550EF-2496-4F79-BFE9-3B3AB983E2A4}.Release.ActiveCfg = Release|.NET
+		{ED1550EF-2496-4F79-BFE9-3B3AB983E2A4}.Release.Build.0 = Release|.NET
+		{0A497FA9-898A-4570-AC2D-5033E53DF196}.Debug.ActiveCfg = Debug|.NET
+		{0A497FA9-898A-4570-AC2D-5033E53DF196}.Debug.Build.0 = Debug|.NET
+		{0A497FA9-898A-4570-AC2D-5033E53DF196}.Release.ActiveCfg = Release|.NET
+		{0A497FA9-898A-4570-AC2D-5033E53DF196}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

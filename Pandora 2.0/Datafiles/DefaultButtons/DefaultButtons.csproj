@@ -1,0 +1,207 @@
+<VisualStudioProject>
+    <CSHARP
+        ProjectType = "Local"
+        ProductVersion = "7.10.3077"
+        SchemaVersion = "2.0"
+        ProjectGuid = "{BB9DAC32-3B08-4C03-905B-9AE7CC55A10F}"
+    >
+        <Build>
+            <Settings
+                ApplicationIcon = ""
+                AssemblyKeyContainerName = ""
+                AssemblyName = "DefaultButtons"
+                AssemblyOriginatorKeyFile = ""
+                DefaultClientScript = "JScript"
+                DefaultHTMLPageLayout = "Grid"
+                DefaultTargetSchema = "IE50"
+                DelaySign = "false"
+                OutputType = "Library"
+                PreBuildEvent = ""
+                PostBuildEvent = ""
+                RootNamespace = "DefaultButtons"
+                RunPostBuildEvent = "OnBuildSuccess"
+                StartupObject = ""
+            >
+                <Config
+                    Name = "Debug"
+                    AllowUnsafeBlocks = "false"
+                    BaseAddress = "285212672"
+                    CheckForOverflowUnderflow = "false"
+                    ConfigurationOverrideFile = ""
+                    DefineConstants = "DEBUG;TRACE"
+                    DocumentationFile = ""
+                    DebugSymbols = "true"
+                    FileAlignment = "4096"
+                    IncrementalBuild = "false"
+                    NoStdLib = "false"
+                    NoWarn = ""
+                    Optimize = "false"
+                    OutputPath = "bin\Debug\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                    WarningLevel = "4"
+                />
+                <Config
+                    Name = "Release"
+                    AllowUnsafeBlocks = "false"
+                    BaseAddress = "285212672"
+                    CheckForOverflowUnderflow = "false"
+                    ConfigurationOverrideFile = ""
+                    DefineConstants = "TRACE"
+                    DocumentationFile = ""
+                    DebugSymbols = "false"
+                    FileAlignment = "4096"
+                    IncrementalBuild = "false"
+                    NoStdLib = "false"
+                    NoWarn = ""
+                    Optimize = "true"
+                    OutputPath = "..\..\Pandora\bin\Debug\Data\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                    WarningLevel = "4"
+                />
+            </Settings>
+            <References>
+                <Reference
+                    Name = "System"
+                    AssemblyName = "System"
+                    HintPath = "C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.dll"
+                />
+                <Reference
+                    Name = "System.Data"
+                    AssemblyName = "System.Data"
+                    HintPath = "C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.Data.dll"
+                />
+                <Reference
+                    Name = "System.XML"
+                    AssemblyName = "System.Xml"
+                    HintPath = "C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.XML.dll"
+                />
+            </References>
+        </Build>
+        <Files>
+            <Include>
+                <File
+                    RelPath = "28.xml"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "29.xml"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "30.xml"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "31.xml"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "32.xml"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "33.xml"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "34.xml"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "35.xml"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "45.xml"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "46.xml"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "55.xml"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "56.xml"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "57.xml"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "58.xml"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "59.xml"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "64.xml"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "65.xml"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "66.xml"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "67.xml"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "68.xml"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "70.xml"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "71.xml"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "72.xml"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "73.xml"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "74.xml"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "75.xml"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "76.xml"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "9.xml"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "AssemblyInfo.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+            </Include>
+        </Files>
+    </CSHARP>
+</VisualStudioProject>
+

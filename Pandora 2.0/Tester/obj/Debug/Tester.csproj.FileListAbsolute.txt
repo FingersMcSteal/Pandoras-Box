@@ -1,0 +1,3 @@
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\Tester\obj\Debug\Tester.Form1.resources
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\Tester\obj\Debug\Tester.csproj.GenerateResource.Cache

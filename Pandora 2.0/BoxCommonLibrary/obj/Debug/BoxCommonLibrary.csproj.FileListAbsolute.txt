@@ -1,0 +1,8 @@
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\BoxCommonLibrary\bin\Debug\BoxCL.dll
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\BoxCommonLibrary\bin\Debug\BoxCL.pdb
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\BoxCommonLibrary\bin\Debug\BoxCL.xml
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\BoxCommonLibrary\obj\Debug\TheBox.Common.HuesChart.resources
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\BoxCommonLibrary\obj\Debug\TheBox.Data.Location.resources
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\BoxCommonLibrary\obj\Debug\BoxCommonLibrary.csproj.GenerateResource.Cache
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\BoxCommonLibrary\obj\Debug\BoxCL.dll
+C:\Users\Steve\Desktop\Pandora\PB2Source\Pandora 2.0\BoxCommonLibrary\obj\Debug\BoxCL.pdb
